@@ -16,6 +16,7 @@ import { EventosComponent } from './eventos/eventos.component';
     MetodosComponent,
     QueenComponent,
     EventosComponent,
+
   ],
   imports: [
     BrowserModule
